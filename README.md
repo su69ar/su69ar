@@ -40,7 +40,6 @@ Currently balancing life between **keyboard, kopi hitam, and Bali vibes** 🏝�
 ✨ *Vision isn’t just a future, it’s a destination.* ✨
 
 ---
-## 🐍 Contribution Snake
 ![Snake animation (light)](https://raw.githubusercontent.com/su69ar/su69ar/output/snake.svg#gh-light-mode-only)
 ![Snake animation (dark)](https://raw.githubusercontent.com/su69ar/su69ar/output/snake-dark.svg#gh-dark-mode-only)
 ---
