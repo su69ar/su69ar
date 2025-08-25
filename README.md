@@ -1,12 +1,12 @@
 # 👋 Hey, what’s up?
 
-I’m **su69ar** – just a guy who codes, chills, and sometimes breaks production (don’t tell anyone 🤫).  
+I’m **su69ar** – just a guy who codes, chills, and sometimes breaks production.  
 Currently balancing life between **keyboard, kopi hitam, and Bali vibes** 🏝️☕💻  
 
 ---
 
 ## ✨ About Me
-- 🧑‍💻 Full name: **RDNAX**
+- 🧑‍💻 Call me **RDNAX**
 - 🏠 Based in **Badung, Bali – Indonesia**
 - 🔥 Always curious, always experimenting  
 - 🧘‍♂️ Chill mindset, open to new ideas & collabs  
