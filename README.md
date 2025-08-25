@@ -47,7 +47,7 @@ Currently balancing life between **keyboard, kopi hitam, and Bali vibes** 🏝�
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.instagram.com/rdna_x" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="50" /></a>
+  <a href="https://www.instagram.com/rdna_x" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="20" /></a>
   <!-- <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=githubpages&logoColor=white" /></a> -->
 </p>
